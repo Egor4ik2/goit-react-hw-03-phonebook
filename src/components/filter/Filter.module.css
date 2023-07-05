@@ -1,0 +1,14 @@
+.filter-container {
+  margin-bottom: 20px;
+}
+
+.filter-container label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.filter-container input {
+  padding: 5px;
+  width: 100%;
+}

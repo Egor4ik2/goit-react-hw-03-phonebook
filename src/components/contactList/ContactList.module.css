@@ -1,0 +1,22 @@
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.contact-list li {
+  margin-bottom: 10px;
+}
+
+.contact-list button {
+  padding: 5px 10px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.contact-list button:hover {
+  background-color: #e53935;
+}
